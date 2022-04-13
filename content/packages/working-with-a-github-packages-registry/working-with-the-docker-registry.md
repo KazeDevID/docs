@@ -269,4 +269,4 @@ $ docker pull <em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
 
 {% endif %}
 
-{% endif %}  <!-- End of main versioning block -->
+{% endif %}  <!-- End of main versioning block --->
